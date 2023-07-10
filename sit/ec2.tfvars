@@ -6,7 +6,6 @@ availability_zone = "eu-west-1b"
 //environment = "Sit environment"
 //product = "Linux Machine"
 ec2_sg = "sit_from_terraform_allow_ssh_http"
-output = 
 default_tags = {
   "Name"        = "SIT Linux Application Server"
   "environment" = "SIT environment"
